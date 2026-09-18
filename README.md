@@ -19,16 +19,11 @@ Repository that contains software testing and quality assurance projects.
 * Added basic automated assertions
 * Exported Postman collections
 
-Files:
+[View API Testing README](api-testing/README.md)
 
-```text
-api-testing/
-├── README.md
-├── postman/
-│   └── QA-Shop-Testing.postman_collection.json
-└── test-cases/
-    └── API-TestCases.md
-```
+[View Test Cases](api-testing/test-cases/API-TestCases.md)
+
+[View Postman Collection](api-testing/postman/QA-Shop-Testing.postman_collection.json)
 
 ### SQL Testing
 
@@ -37,24 +32,15 @@ api-testing/
 - Validated order and product data
 - Checked relationships between users, products, and orders
 
-Files:
-
-```text
-sql-testing/
-└── SQL-QAValidation.sql
-```
+[View SQL Validation](sql-testing/SQL-QA-Validation.sql)
 
 ### Bug Reporting
 
 * Documented testing findings from API testing
 * Practiced writing bug reports and observations
 
-Files:
-
-```text
-bug-reporting/
-└── api-bug-report.md
-```
+```md
+[View Bug Report](bug-reporting/api-bug-report.md)
 
 ## Tools
 
