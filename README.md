@@ -39,7 +39,6 @@ Repository that contains software testing and quality assurance projects.
 * Documented testing findings from API testing
 * Practiced writing bug reports and observations
 
-```md
 [View Bug Report](bug-reporting/api-bug-report.md)
 
 ## Tools
